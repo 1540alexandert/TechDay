@@ -48,7 +48,7 @@ body {
     #CollegeLogo {
         display: none;
         margin: 0 auto;
-        width: 90%;
+        width: 30%;
     }
     
     @media screen and (min-width: 750px) {
@@ -61,8 +61,7 @@ body {
         #CollegeLogo {
             display: block;
             margin: 0 auto;
-            width:348px;
-            height:353px;
-            bottom: 1px;
+            width: 110px;
+            height: 110px;
         }
     }
