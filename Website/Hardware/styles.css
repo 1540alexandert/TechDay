@@ -60,6 +60,11 @@ body {
         padding-right: 1%;
         background-color: #f2f2f2
     }
+    #ImageSection{
+        float: right;
+        margin-left: 0%;
+        margin-right: 0%;
+    }
     p
     {
      padding-left: auto;
@@ -104,6 +109,11 @@ body {
             height: 110px;
             padding-bottom: 1%;
         }
+        #RAM{
+            width: 200px;
+            height: 100px;
+        }
+
     }
       div.relative 
       {
